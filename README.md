@@ -7,7 +7,8 @@ The main objective was to configure two environments (qa and production) to bett
 - AWS DynamoDB/Lambda;
 - Axios;
 - Cheerio;
-- Node.js
+- Node.js;
+- Linux Env;
 
 ## AWS view:
 ### Table:
